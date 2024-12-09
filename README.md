@@ -7,4 +7,4 @@ This was crucial, as more than 100 parties ran in the young democracy. While oth
 Millions of Tunisians used the tool (if I remember correctly, one in ten). The developments in Syria later moved me to upload the tool's code to GitHub under the MIT License. 
 
 The code is now outdated, and I'm not even sure if this is the final version or if it still works in any way. But perhaps someone will find it and be inspired to create a similar tool for Syria.
-![TuniVote]([https://example.com/image.jpg](https://github.com/heikowagner/Tunivote/blob/main/tunivote.JPG?raw=true) "TuniVote")
+![Alt text](https://github.com/heikowagner/Tunivote/blob/main/tunivote.JPG "TuniVote")
